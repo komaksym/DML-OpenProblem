@@ -1,0 +1,9 @@
+{
+  "skill": "baoyu-infographic",
+  "backend": "codex-imagegen",
+  "image_sha256": "854b505c069e9d5918a48c60044bfdf341e7a018a9340f7ac482c1e33ea926f8",
+  "prompt_sha256": "fc219f69cbc4be5b8436584e878f2d3c4feb2b373560f8feac6a3c1bc30fbf16",
+  "purpose": "This image explains persistent delivery, recovery, and the public/private CI merge policy.",
+  "visual_note": "I saw Delivery that survives a restart, LOCAL PERSISTENCE, Local work, Commit, Push, Pull request, MERGE GATE, Current-head CI must pass, PUBLIC, CI + GitHub ruleset, PRIVATE, CI + agent instruction, Required checks must report on every PR, Merge, RESTART RECOVERY, Unchanged source, Exact merged PR, Current default branch, and Checkpoint = unfinished. All three layers fit inside the navy border and labels are readable.",
+  "created_at": "2026-10-20T12:22:12.849950+00:00"
+}

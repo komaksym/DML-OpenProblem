@@ -9,11 +9,6 @@ on:
       - 'schemas/**'
       - '.github/workflows/**'   # ensure workflow edits retrigger
   pull_request:
-    paths:
-      - 'questions/**'
-      - 'utils/**'
-      - 'schemas/**'
-      - '.github/workflows/**'
 
 concurrency:
   group: build-validate-${{ github.ref }}
